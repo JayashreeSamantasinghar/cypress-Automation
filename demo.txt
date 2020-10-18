@@ -5,8 +5,10 @@ namespace DemoApplication
   static void Main(string[] args) 
   {
    Console.Write("Hello World");
+   Console.Write("automation");
 
    Console.ReadKey();
+
   }
  }
 }
